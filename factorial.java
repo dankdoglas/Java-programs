@@ -17,7 +17,7 @@ public class factorial {
 					b *= i;
 					
 				}
-				System.out.print("The factorial of a is: " + b);
+				System.out.print("The factorial of " + a + " is: "   + b);
 			}
 	}
 
